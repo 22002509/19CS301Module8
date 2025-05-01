@@ -17,6 +17,8 @@ To calculate the final amount paid by Vimla for a microwave oven after applying 
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 amount=25000
 discount_percentage=5
 cst_percentage=2
@@ -45,6 +47,8 @@ To construct a pattern of asterisks in an increasing and then decreasing triangl
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 n=int(input())
 for i in range(1, n+1):
     print('* ' * i)
@@ -71,6 +75,8 @@ To find the runner-up (second highest) score from a list of integers entered by 
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 n=int(input())
 arr=list(map(int, input().split()))
 max_score=max(arr)
@@ -102,6 +108,8 @@ To develop a Python program that counts the number of vowels and consonants in a
 
 ### Program:
 ```
+#Reg.NO:212222040120
+#Name:PRASANNA R
 def fun(s):
     v,c=0,0
     for i in s:
